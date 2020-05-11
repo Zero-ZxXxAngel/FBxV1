@@ -48,25 +48,23 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-                 __---__
-                    _-       /--______
-               __--( /     \ )XXXXXXXXXXX\v.
-             .-XXX(   O   O  )XXXXXXXXXXXXXXX-
-            /XXX(       U     )        XXXXXXX\
-          /XXXXX(              )--_  XXXXXXXXXXX\
-         /XXXXX/ (      O     )   XXXXXX   \XXXXX\
-         XXXXX/   /            XXXXXX   \__ \XXXXX
-         XXXXXX__/          XXXXXX         \__---->
- ---___  XXX__/          XXXXXX      \__         /
-   \-  --__/   ___/\  XXXXXX            /  ___--/=
-    \-\    ___/    XXXXXX              '--- XXXXXX
-       \-\/XXX\ XXXXXX                      /XXXXX
-         \XXXXXXXXX   \                    /XXXXX/
-          \XXXXXX      >                 _/XXXXX/
-            \XXXXX--__/              __-- XXXX/
-             -XXXXXXXX---------------  XXXXXX-
-                \XXXXXXXXXXXXXXXXXXXXXXXXXX/
-                  ""VXXXXXXXXXXXXXXXXXXV""
+                      .oso`                     
+     ----`-:/++oooooo+sMMMms                     
+   `:/+o+++////++osymMNhhNMds/.                 
+                    hhdMhhyymMNNy/`             
+                  `smMhhmo/ydhmhmNMh/`          
+                  sNNyNms/.-hMyy`:sdmNs` `      
+                  mMyMhohyhhoMmy   .omMhhh`     
+                  ydmMNyh+somMy:    -sNmMy.     
+                  /NhMMmy:/mmh/ `/yNd/` .--`    
+               `+ymMNdNMMMNmNmMNMd+.            
+          `-ommysyNMMMNmMMNMMMMNh+:`            
+         `.-:+ohmMddNMMMNMMMMNmmMMMm+.          
+                 `:odMMMMMMMMNy+:.`  `          
+                     `+dMMMN/`                  
+                        sMm-                    
+                        .+                      
+
           ✔Owner: Zero & ZxXx-Angel✔
           ✔If you have any problem✔
          ✔You can contact me On my✔
@@ -74,7 +72,7 @@ logo = """
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
 \033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mZero&ZxXx-Angel\033[0;31m║
 \033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/Zero-ZxXxAngel\033[0m \033[0;31m║
-\033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m081383189919\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;32mWhatsApp \033[1;32m: \033[1;32m+6281383189919\033[0;31m║
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
