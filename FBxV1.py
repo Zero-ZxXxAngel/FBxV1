@@ -57,7 +57,7 @@ logo = """
 .........^$$$B  $$$$\.....$$$$$$$$$$$$   d$$R"
 ..........."*$bd$$$$......'*$$$$$$$$$$$o+#"
 ...............""""..........."""""""
-         ✔Owner: Zero & ZxXx-Angel✔
+          ✔Owner: Zero & ZxXx-Angel✔
           ✔If you have any problem✔
          ✔You can contact me On my✔
              👇Whatsapp Number👇
