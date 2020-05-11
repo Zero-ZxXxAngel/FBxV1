@@ -48,23 +48,42 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-                      .oso`                     
-     ----`-:/++oooooo+sMMMms                     
-   `:/+o+++////++osymMNhhNMds/.                 
-                    hhdMhhyymMNNy/`             
-                  `smMhhmo/ydhmhmNMh/`          
-                  sNNyNms/.-hMyy`:sdmNs` `      
-                  mMyMhohyhhoMmy   .omMhhh`     
-                  ydmMNyh+somMy:    -sNmMy.     
-                  /NhMMmy:/mmh/ `/yNd/` .--`    
-               `+ymMNdNMMMNmNmMNMd+.            
-          `-ommysyNMMMNmMMNMMMMNh+:`            
-         `.-:+ohmMddNMMMNMMMMNmmMMMm+.          
-                 `:odMMMMMMMMNy+:.`  `          
-                     `+dMMMN/`                  
-                        sMm-                    
-                        .+                      
 
+                    (_)
+                   (___)
+                   (___)
+                   (___)
+                   (___)
+        /\_____/\__/----\__/\_____/\
+        \_____\_°_¤ ---- ¤_°_/_____/
+                 \ __°__ /
+                  |\_°_/|
+                  [|\_/|]
+                  [|[¤]|]
+                  [|;¤;|]
+                  [;;¤;;]
+                 ;[|;¤]|]\
+                ;;[|;¤]|]-\
+               ;;;[|[o]|]--\
+              ;;;;[|[o]|]---\
+             ;;;;;[|[o]|]|---|
+             ;;;;;[|[o]|]|---|
+              ;;;;[|[o]|/---/
+               ;;;[|[o]/---/
+                ;;[|[]/---/
+                 ;[|[/---/
+                  [|/---/
+                   /---/
+                  /---/|]
+                 /---/]|];
+                /---/#]|];;
+                |---|[#]|];;;
+                |---|[#]|];;;
+                 \--|[#]|];;
+                  \-|[#]|];
+                   \|[#]|]
+                    \\#//
+                      \/
           ✔Owner: Zero & ZxXx-Angel✔
           ✔If you have any problem✔
          ✔You can contact me On my✔
